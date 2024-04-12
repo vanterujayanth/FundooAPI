@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\reposetorylayer\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|solutionrelative:reposetorylayer\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\reposetorylayer\\services\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|solutionrelative:reposetorylayer\\services\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{47FA5094-9F2A-4664-943E-3C86F7457789}|FundooNotesApk\\FundooNotesApk.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\fundoonotesapk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{47FA5094-9F2A-4664-943E-3C86F7457789}|FundooNotesApk\\FundooNotesApk.csproj|solutionrelative:fundoonotesapk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -33,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\reposetorylayer\\services\\noterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|solutionrelative:reposetorylayer\\services\\noterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\reposetorylayer\\services\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|solutionrelative:reposetorylayer\\services\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B12E5293-3D02-4B8C-9E8F-A91C5E0C89F3}|CommonLayer\\CommonLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\commonlayer\\models\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -139,10 +143,6 @@
       "RelativeMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|solutionrelative:reposetorylayer\\migrations\\20240408111413_label.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\reposetorylayer\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|solutionrelative:reposetorylayer\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5D4781B0-B3EE-4C62-956C-1EC60284AF4D}|LogicLayer\\LogicLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\logiclayer\\services\\labellogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D4781B0-B3EE-4C62-956C-1EC60284AF4D}|LogicLayer\\LogicLayer.csproj|solutionrelative:logiclayer\\services\\labellogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -166,11 +166,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 30,
+          "SelectedChildIndex": 32,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "NoteRepo.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Services\\NoteRepo.cs",
               "RelativeDocumentMoniker": "ReposetoryLayer\\Services\\NoteRepo.cs",
@@ -182,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ResetPasswordModel.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\CommonLayer\\Models\\ResetPasswordModel.cs",
               "RelativeDocumentMoniker": "CommonLayer\\Models\\ResetPasswordModel.cs",
@@ -194,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "UserLoginModel.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\CommonLayer\\Models\\UserLoginModel.cs",
               "RelativeDocumentMoniker": "CommonLayer\\Models\\UserLoginModel.cs",
@@ -206,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "UserUpdateModel.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\CommonLayer\\Models\\UserUpdateModel.cs",
               "RelativeDocumentMoniker": "CommonLayer\\Models\\UserUpdateModel.cs",
@@ -218,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "UserRegistrationModel.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\CommonLayer\\Models\\UserRegistrationModel.cs",
               "RelativeDocumentMoniker": "CommonLayer\\Models\\UserRegistrationModel.cs",
@@ -230,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "TokenModel.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\CommonLayer\\Models\\TokenModel.cs",
               "RelativeDocumentMoniker": "CommonLayer\\Models\\TokenModel.cs",
@@ -242,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\FundooNotesApk\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "FundooNotesApk\\Controllers\\UserController.cs",
@@ -250,12 +250,11 @@
               "RelativeToolTip": "FundooNotesApk\\Controllers\\UserController.cs",
               "ViewState": "AQIAAMIAAAAAAAAAAAAowMoAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T04:59:14.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-12T04:59:14.927Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "IUserLogic.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\LogicLayer\\Interface\\IUserLogic.cs",
               "RelativeDocumentMoniker": "LogicLayer\\Interface\\IUserLogic.cs",
@@ -267,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "UserLogic.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\LogicLayer\\Services\\UserLogic.cs",
               "RelativeDocumentMoniker": "LogicLayer\\Services\\UserLogic.cs",
@@ -279,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "IUserRepo.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Interface\\IUserRepo.cs",
               "RelativeDocumentMoniker": "ReposetoryLayer\\Interface\\IUserRepo.cs",
@@ -291,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "INotesRepo.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Interface\\INotesRepo.cs",
               "RelativeDocumentMoniker": "ReposetoryLayer\\Interface\\INotesRepo.cs",
@@ -303,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "GetDetails.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\CommonLayer\\Models\\GetDetails.cs",
               "RelativeDocumentMoniker": "CommonLayer\\Models\\GetDetails.cs",
@@ -315,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ResponseModel.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\CommonLayer\\Models\\ResponseModel.cs",
               "RelativeDocumentMoniker": "CommonLayer\\Models\\ResponseModel.cs",
@@ -327,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "2024-04-10.log",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\FundooNotesApk\\Logs\\2024-04-10.log",
               "RelativeDocumentMoniker": "FundooNotesApk\\Logs\\2024-04-10.log",
@@ -339,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "NotesEntity.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Entity\\NotesEntity.cs",
               "RelativeDocumentMoniker": "ReposetoryLayer\\Entity\\NotesEntity.cs",
@@ -351,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "NotesModel.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\CommonLayer\\Models\\NotesModel.cs",
               "RelativeDocumentMoniker": "CommonLayer\\Models\\NotesModel.cs",
@@ -363,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "20240410115236_Collaborator.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Migrations\\20240410115236_Collaborator.cs",
               "RelativeDocumentMoniker": "ReposetoryLayer\\Migrations\\20240410115236_Collaborator.cs",
@@ -375,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "FundooContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Migrations\\FundooContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "ReposetoryLayer\\Migrations\\FundooContextModelSnapshot.cs",
@@ -387,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "NLog.Config",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\FundooNotesApk\\NLog.Config",
               "RelativeDocumentMoniker": "FundooNotesApk\\NLog.Config",
@@ -399,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "NLog.Config",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\FundooNotesApk\\NLog.Config",
               "RelativeDocumentMoniker": "FundooNotesApk\\NLog.Config",
@@ -411,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "20240408111413_Label.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Migrations\\20240408111413_Label.cs",
               "RelativeDocumentMoniker": "ReposetoryLayer\\Migrations\\20240408111413_Label.cs",
@@ -423,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ColabController.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\FundooNotesApk\\Controllers\\ColabController.cs",
               "RelativeDocumentMoniker": "FundooNotesApk\\Controllers\\ColabController.cs",
@@ -435,7 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "IColabLogic.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\LogicLayer\\Interface\\IColabLogic.cs",
               "RelativeDocumentMoniker": "LogicLayer\\Interface\\IColabLogic.cs",
@@ -447,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "ColabLogic.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\LogicLayer\\Services\\ColabLogic.cs",
               "RelativeDocumentMoniker": "LogicLayer\\Services\\ColabLogic.cs",
@@ -459,7 +458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "IColabRepo.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Interface\\IColabRepo.cs",
               "RelativeDocumentMoniker": "ReposetoryLayer\\Interface\\IColabRepo.cs",
@@ -471,7 +470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "ColabRepo.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Services\\ColabRepo.cs",
               "RelativeDocumentMoniker": "ReposetoryLayer\\Services\\ColabRepo.cs",
@@ -483,7 +482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "LabelController.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\FundooNotesApk\\Controllers\\LabelController.cs",
               "RelativeDocumentMoniker": "FundooNotesApk\\Controllers\\LabelController.cs",
@@ -495,7 +494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\FundooNotesApk\\Program.cs",
               "RelativeDocumentMoniker": "FundooNotesApk\\Program.cs",
@@ -507,19 +506,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "UserRepo.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Services\\UserRepo.cs",
               "RelativeDocumentMoniker": "ReposetoryLayer\\Services\\UserRepo.cs",
               "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Services\\UserRepo.cs",
               "RelativeToolTip": "ReposetoryLayer\\Services\\UserRepo.cs",
-              "ViewState": "AQIAADIBAAAAAAAAAAAuwEcBAAALAAAA",
+              "ViewState": "AQIAAP0AAABA/////78qwEcBAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T13:39:13.232Z"
+              "WhenOpened": "2024-04-08T13:39:13.232Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "CollaboratorEntity.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Entity\\CollaboratorEntity.cs",
               "RelativeDocumentMoniker": "ReposetoryLayer\\Entity\\CollaboratorEntity.cs",
@@ -531,7 +531,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\FundooNotesApk\\appsettings.json",
               "RelativeDocumentMoniker": "FundooNotesApk\\appsettings.json",
@@ -544,7 +544,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "FundooContext.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Context\\FundooContext.cs",
               "RelativeDocumentMoniker": "ReposetoryLayer\\Context\\FundooContext.cs",
@@ -556,15 +556,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 0,
               "Title": "UserEntity.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Entity\\UserEntity.cs",
               "RelativeDocumentMoniker": "ReposetoryLayer\\Entity\\UserEntity.cs",
               "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Entity\\UserEntity.cs",
               "RelativeToolTip": "ReposetoryLayer\\Entity\\UserEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAIBZwAoAAAAbAAAA",
+              "ViewState": "AQIAABkAAAAAaGZmZmbuvxwAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T13:27:15.564Z"
+              "WhenOpened": "2024-04-08T13:27:15.564Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -580,7 +581,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "LabelEntity.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Entity\\LabelEntity.cs",
               "RelativeDocumentMoniker": "ReposetoryLayer\\Entity\\LabelEntity.cs",
@@ -592,7 +593,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "NotesController.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\FundooNotesApk\\Controllers\\NotesController.cs",
               "RelativeDocumentMoniker": "FundooNotesApk\\Controllers\\NotesController.cs",

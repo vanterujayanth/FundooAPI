@@ -25,5 +25,7 @@ namespace ReposetoryLayer.Entity
 
         public DateTime CreatedDate { get; set; }
         public DateTime ModifiedDate { get; set; }
+
+        //Hello
     }
 }

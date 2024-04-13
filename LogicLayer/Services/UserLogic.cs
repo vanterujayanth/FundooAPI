@@ -91,5 +91,9 @@ namespace LogicLayer.Services
         {
             return iuserRepo.LoginMethod(userLoginModel);
         }
+        public UserEntity UpdateDetails(UserUpdateModel userUpdateModel)
+        {
+            return iuserRepo.UpdateDetails(userUpdateModel);
+        }
     }
 }

@@ -89,5 +89,22 @@ namespace ReposetoryLayer.Services
             }
 
         }
+        // find notes that belongs to a particular label name
+        public object GetDetailsByName(long noteid)
+        {
+            var details = (from x in fundooContext.UserNotes
+                           where x.NoteId == noteid
+                           select x).FirstOrDefault();
+
+            if (details != null)
+            {
+                return details;
+            }
+            else
+            {
+                return null;
+            }
+        }
+
     }
 }

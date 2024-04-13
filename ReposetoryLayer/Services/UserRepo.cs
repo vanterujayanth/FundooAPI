@@ -56,6 +56,13 @@ namespace ReposetoryLayer.Services
                 return null;                            // or return a default password
             }
         }
+        public bool IsValidEmail(string email)
+        {
+
+            string pattern = @"^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$";
+            return Regex.IsMatch(email, pattern);
+        }
+
         public UserEntity UserRegistration(UserRegistrationModel registrationModel)
         {
 
@@ -84,6 +91,23 @@ namespace ReposetoryLayer.Services
                 return null;
             }
 
+        }
+        public UserEntity UpdateDetails(UserUpdateModel userUpdateModel)
+        {
+            try
+            {
+                UserEntity userEntity = new UserEntity();
+                userEntity.FirstName = userUpdateModel.FirstName;
+                userEntity.LastName = userUpdateModel.FirstName;
+                fundooContext.SaveChanges();
+                return userEntity;
+            }
+            catch(Exception ex) 
+            {
+                return null;
+            }
+           
+        
         }
         // for update user details
         public bool UpdateUserDetails(long userid, UserUpdateModel user)
@@ -206,13 +230,7 @@ namespace ReposetoryLayer.Services
                 }
 
         }
-        public bool IsValidEmail(string email)
-        {
-
-            string pattern = @"^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$";
-            return Regex.IsMatch(email, pattern);
-        }
-
+       
         // foe token creation
         private string GenerateToken(long userID, string Email)
         {

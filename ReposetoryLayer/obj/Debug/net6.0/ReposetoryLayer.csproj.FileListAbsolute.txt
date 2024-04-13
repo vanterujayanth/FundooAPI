@@ -15,3 +15,4 @@ C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\ReposetoryLayer\obj\De
 C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\ReposetoryLayer\obj\Debug\net6.0\ReposetoryLayer.pdb
 C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\ReposetoryLayer\obj\Debug\net6.0\ReposetoryLayer.genruntimeconfig.cache
 C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\ReposetoryLayer\obj\Debug\net6.0\ref\ReposetoryLayer.dll
+C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\ReposetoryLayer\obj\Debug\net6.0\ReposetoryLayer.sourcelink.json

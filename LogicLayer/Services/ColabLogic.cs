@@ -28,5 +28,9 @@ namespace LogicLayer.Services
         {
             return _colabRepo.GetCollaborationbyid(CollabId);
         }
+        public int CountNumberCollaborators(long userId)
+        {
+            return _colabRepo.CountNumberCollaborators(userId);
+        }
     }
 }

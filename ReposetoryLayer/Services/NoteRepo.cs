@@ -153,6 +153,18 @@ namespace ReposetoryLayer.Services
                 return null;
             }
         }
+        //search note using title and description, show details of that note
+        public NotesEntity GetNotesByTitle(string title,string despriction)
+        {
+            var note=(from X in fundooContext.UserNotes
+                      where X.Title == title 
+                      select X).FirstOrDefault();
+            if (note != null)
+            {
+                return note;
+            }
+            return null;
+        }
         // to get notes by user id
         public IEnumerable<NotesEntity> GetNotesByUserId(long userid)
         {
@@ -287,6 +299,36 @@ namespace ReposetoryLayer.Services
             }
 
         }
+       // count no of notes belongs to a particular user
+        public int CountNumberOfNotes(long userId)
+        {
+            var count = fundooContext.UserNotes.Count(x=>x.UserID == userId);
+            if (count > 0)
+            {
+                return count;
+            }
+            else
+            {
+                return 0;
+            }
+        }
+        //find note on the basis of the date the notes were created
+        public IEnumerable<NotesEntity> GetNotesByDate(DateTime date)
+        {
+            var notes = (from x in fundooContext.UserNotes
+                         where x.CreatedAt == date
+                         select x).ToList();
+            if (notes == null)
+            {
+                return null;
+            }
+            else
+            {
+                return notes;
+            }
+
+        }
+
 
     }
 

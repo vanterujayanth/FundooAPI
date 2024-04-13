@@ -57,5 +57,17 @@ namespace LogicLayer.Services
         {
             return inotesRepo.TogglePin(userid,noteid);
         }
+        public NotesEntity GetNotesByTitle(string title, string despriction)
+        {
+            return inotesRepo .GetNotesByTitle(title, despriction);
+        }
+        public  int CountNumberOfNotes(long userId)
+        {
+            return inotesRepo.CountNumberOfNotes(userId);
+        }
+        public IEnumerable<NotesEntity> GetNotesByDate(DateTime date)
+        {
+            return inotesRepo.GetNotesByDate(date);
+        }
     }
 }

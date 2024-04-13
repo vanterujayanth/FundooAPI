@@ -20,5 +20,6 @@ namespace ReposetoryLayer.Interface
 
         //  public string UserLogins(UserLoginModel user, GetDetails getDetails);
         public TokenModel LoginMethod(UserLoginModel userLoginModel);
+        public UserEntity UpdateDetails(UserUpdateModel userUpdateModel);
     }
 }

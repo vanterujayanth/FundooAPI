@@ -1,0 +1,316 @@
+2024-04-13 10:27:27.2877 ${level} User profile is available. Using 'C:\Users\Rajesh Venteru\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-04-13 10:27:31.5514 ${level} Now listening on: https://localhost:7068
+2024-04-13 10:27:31.5514 ${level} Now listening on: http://localhost:5157
+2024-04-13 10:27:31.5514 ${level} Application started. Press Ctrl+C to shut down.
+2024-04-13 10:27:31.5888 ${level} Hosting environment: Development
+2024-04-13 10:27:31.5888 ${level} Content root path: C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\
+2024-04-13 10:27:32.5428 ${level} Request starting HTTP/2 GET https://localhost:7068/swagger/index.html - -
+2024-04-13 10:27:33.5766 ${level} Request finished HTTP/2 GET https://localhost:7068/swagger/index.html - - - 200 - text/html;charset=utf-8 1037.0840ms
+2024-04-13 10:27:33.6624 ${level} Request starting HTTP/2 GET https://localhost:7068/_framework/aspnetcore-browser-refresh.js - -
+2024-04-13 10:27:33.6824 ${level} Request finished HTTP/2 GET https://localhost:7068/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 19.9612ms
+2024-04-13 10:27:33.7261 ${level} Request starting HTTP/2 GET https://localhost:7068/_vs/browserLink - -
+2024-04-13 10:27:34.0442 ${level} Request finished HTTP/2 GET https://localhost:7068/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 318.0575ms
+2024-04-13 10:27:34.2856 ${level} Request starting HTTP/2 GET https://localhost:7068/swagger/v1/swagger.json - -
+2024-04-13 10:27:34.6848 ${level} Request finished HTTP/2 GET https://localhost:7068/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 399.3028ms
+2024-04-13 10:27:41.2911 ${level} Request starting HTTP/2 GET https://localhost:7068/swagger/[object Module] - -
+2024-04-13 10:27:41.4130 ${level} Request finished HTTP/2 GET https://localhost:7068/swagger/[object Module] - - - 404 0 - 121.8800ms
+2024-04-13 10:27:49.8028 ${level} Request starting HTTP/2 GET https://localhost:7068/api/Notes/Get_By_Notes_Title?title=ram - -
+2024-04-13 10:27:49.8173 ${level} Executing endpoint 'FundooNotesApk.Controllers.NotesController.GetNotesByTitle (FundooNotesApk)'
+2024-04-13 10:27:49.9038 ${level} Route matched with {action = "GetNotesByTitle", controller = "Notes"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetNotesByTitle(System.String) on controller FundooNotesApk.Controllers.NotesController (FundooNotesApk).
+2024-04-13 10:27:52.1834 ${level} Entity Framework Core 6.0.0 initialized 'FundooContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-04-13 10:27:53.9025 ${level} Executed DbCommand (148ms) [Parameters=[@__title_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[NoteId], [u].[Color], [u].[CreatedAt], [u].[Description], [u].[IsArchive], [u].[IsPinned], [u].[IsTrash], [u].[ModifiedAt], [u].[Remainder], [u].[Title], [u].[UserID]
+FROM [UserNotes] AS [u]
+WHERE [u].[Title] = @__title_0
+2024-04-13 10:27:54.1022 ${level} Executing OkObjectResult, writing value of type 'CommonLayer.Models.ResponseModel`1[[ReposetoryLayer.Entity.NotesEntity, ReposetoryLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-04-13 10:27:54.1262 ${level} Executed action FundooNotesApk.Controllers.NotesController.GetNotesByTitle (FundooNotesApk) in 4215.7076ms
+2024-04-13 10:27:54.1262 ${level} Executed endpoint 'FundooNotesApk.Controllers.NotesController.GetNotesByTitle (FundooNotesApk)'
+2024-04-13 10:27:54.1370 ${level} Request finished HTTP/2 GET https://localhost:7068/api/Notes/Get_By_Notes_Title?title=ram - - - 200 - application/json;+charset=utf-8 4334.1710ms
+2024-04-13 10:29:26.0475 ${level} User profile is available. Using 'C:\Users\Rajesh Venteru\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-04-13 10:29:27.0215 ${level} Now listening on: https://localhost:7068
+2024-04-13 10:29:27.0215 ${level} Now listening on: http://localhost:5157
+2024-04-13 10:29:27.0215 ${level} Application started. Press Ctrl+C to shut down.
+2024-04-13 10:29:27.0215 ${level} Hosting environment: Development
+2024-04-13 10:29:27.0215 ${level} Content root path: C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\
+2024-04-13 10:29:27.4137 ${level} Request starting HTTP/2 GET https://localhost:7068/swagger/index.html - -
+2024-04-13 10:29:27.9068 ${level} Request finished HTTP/2 GET https://localhost:7068/swagger/index.html - - - 200 - text/html;charset=utf-8 494.9704ms
+2024-04-13 10:29:27.9530 ${level} Request starting HTTP/2 GET https://localhost:7068/_framework/aspnetcore-browser-refresh.js - -
+2024-04-13 10:29:27.9530 ${level} Request starting HTTP/2 GET https://localhost:7068/_vs/browserLink - -
+2024-04-13 10:29:27.9530 ${level} Request finished HTTP/2 GET https://localhost:7068/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 2.9444ms
+2024-04-13 10:29:28.0379 ${level} Request finished HTTP/2 GET https://localhost:7068/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 82.5903ms
+2024-04-13 10:29:28.2151 ${level} Request starting HTTP/2 GET https://localhost:7068/swagger/v1/swagger.json - -
+2024-04-13 10:29:28.4581 ${level} Request finished HTTP/2 GET https://localhost:7068/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 242.9485ms
+2024-04-13 10:29:33.6017 ${level} Request starting HTTP/2 GET https://localhost:7068/swagger/[object Module] - -
+2024-04-13 10:29:33.7278 ${level} Request finished HTTP/2 GET https://localhost:7068/swagger/[object Module] - - - 404 0 - 126.0808ms
+2024-04-13 10:29:48.8159 ${level} Request starting HTTP/2 GET https://localhost:7068/api/Notes/Get_By_Notes_Title?title=ram&description=hi%20ram - -
+2024-04-13 10:29:48.8206 ${level} Executing endpoint 'FundooNotesApk.Controllers.NotesController.GetNotesByTitle (FundooNotesApk)'
+2024-04-13 10:29:48.9294 ${level} Route matched with {action = "GetNotesByTitle", controller = "Notes"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetNotesByTitle(System.String, System.String) on controller FundooNotesApk.Controllers.NotesController (FundooNotesApk).
+2024-04-13 10:29:50.9358 ${level} Entity Framework Core 6.0.0 initialized 'FundooContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-04-13 10:29:52.2351 ${level} Executed DbCommand (84ms) [Parameters=[@__title_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[NoteId], [u].[Color], [u].[CreatedAt], [u].[Description], [u].[IsArchive], [u].[IsPinned], [u].[IsTrash], [u].[ModifiedAt], [u].[Remainder], [u].[Title], [u].[UserID]
+FROM [UserNotes] AS [u]
+WHERE [u].[Title] = @__title_0
+2024-04-13 10:29:52.4431 ${level} Executing OkObjectResult, writing value of type 'CommonLayer.Models.ResponseModel`1[[ReposetoryLayer.Entity.NotesEntity, ReposetoryLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-04-13 10:29:52.4654 ${level} Executed action FundooNotesApk.Controllers.NotesController.GetNotesByTitle (FundooNotesApk) in 3528.7332ms
+2024-04-13 10:29:52.4654 ${level} Executed endpoint 'FundooNotesApk.Controllers.NotesController.GetNotesByTitle (FundooNotesApk)'
+2024-04-13 10:29:52.4738 ${level} Request finished HTTP/2 GET https://localhost:7068/api/Notes/Get_By_Notes_Title?title=ram&description=hi%20ram - - - 200 - application/json;+charset=utf-8 3657.8477ms
+2024-04-13 10:38:22.9347 ${level} Request starting HTTP/2 GET https://localhost:7068/swagger/[object Module] - -
+2024-04-13 10:38:22.9471 ${level} Request finished HTTP/2 GET https://localhost:7068/swagger/[object Module] - - - 404 0 - 12.3493ms
+2024-04-13 10:38:36.6525 ${level} Request starting HTTP/2 PUT https://localhost:7068/api/User/UpdateByUserId?id=1 application/json 69
+2024-04-13 10:38:36.6525 ${level} Executing endpoint 'FundooNotesApk.Controllers.UserController.UpdateUser (FundooNotesApk)'
+2024-04-13 10:38:36.6614 ${level} Route matched with {action = "UpdateUser", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult UpdateUser(Int64, CommonLayer.Models.UserUpdateModel) on controller FundooNotesApk.Controllers.UserController (FundooNotesApk).
+2024-04-13 10:38:36.7065 ${level} Entity Framework Core 6.0.0 initialized 'FundooContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-04-13 10:38:36.8151 ${level} Executed DbCommand (19ms) [Parameters=[@__userid_0='?' (DbType = Int64)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[userID], [u].[CreatedDate], [u].[Email], [u].[FirstName], [u].[LastName], [u].[ModifiedDate], [u].[Password]
+FROM [user] AS [u]
+WHERE [u].[userID] = @__userid_0
+2024-04-13 10:38:37.0022 ${level} Executed DbCommand (10ms) [Parameters=[@p3='?' (DbType = Int64), @p0='?' (Size = 4000), @p1='?' (Size = 4000), @p2='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [user] SET [Email] = @p0, [FirstName] = @p1, [LastName] = @p2
+WHERE [userID] = @p3;
+SELECT @@ROWCOUNT;
+2024-04-13 10:38:37.0297 ${level} Executing OkObjectResult, writing value of type 'CommonLayer.Models.ResponseModel`1[[System.Boolean, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-04-13 10:38:37.0297 ${level} Executed action FundooNotesApk.Controllers.UserController.UpdateUser (FundooNotesApk) in 369.5835ms
+2024-04-13 10:38:37.0297 ${level} Executed endpoint 'FundooNotesApk.Controllers.UserController.UpdateUser (FundooNotesApk)'
+2024-04-13 10:38:37.0297 ${level} Request finished HTTP/2 PUT https://localhost:7068/api/User/UpdateByUserId?id=1 application/json 69 - 200 - application/json;+charset=utf-8 379.2631ms
+2024-04-13 10:39:59.3604 ${level} Request starting HTTP/2 PUT https://localhost:7068/api/User/UpdateByUserId?id=1 application/json 71
+2024-04-13 10:39:59.3670 ${level} Executing endpoint 'FundooNotesApk.Controllers.UserController.UpdateUser (FundooNotesApk)'
+2024-04-13 10:39:59.3670 ${level} Route matched with {action = "UpdateUser", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult UpdateUser(Int64, CommonLayer.Models.UserUpdateModel) on controller FundooNotesApk.Controllers.UserController (FundooNotesApk).
+2024-04-13 10:39:59.4836 ${level} Entity Framework Core 6.0.0 initialized 'FundooContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-04-13 10:39:59.4928 ${level} Executed DbCommand (3ms) [Parameters=[@__userid_0='?' (DbType = Int64)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[userID], [u].[CreatedDate], [u].[Email], [u].[FirstName], [u].[LastName], [u].[ModifiedDate], [u].[Password]
+FROM [user] AS [u]
+WHERE [u].[userID] = @__userid_0
+2024-04-13 10:39:59.4928 ${level} Executed DbCommand (4ms) [Parameters=[@p3='?' (DbType = Int64), @p0='?' (Size = 4000), @p1='?' (Size = 4000), @p2='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [user] SET [Email] = @p0, [FirstName] = @p1, [LastName] = @p2
+WHERE [userID] = @p3;
+SELECT @@ROWCOUNT;
+2024-04-13 10:39:59.4928 ${level} Executing OkObjectResult, writing value of type 'CommonLayer.Models.ResponseModel`1[[System.Boolean, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-04-13 10:39:59.4928 ${level} Executed action FundooNotesApk.Controllers.UserController.UpdateUser (FundooNotesApk) in 132.2946ms
+2024-04-13 10:39:59.4928 ${level} Executed endpoint 'FundooNotesApk.Controllers.UserController.UpdateUser (FundooNotesApk)'
+2024-04-13 10:39:59.4928 ${level} Request finished HTTP/2 PUT https://localhost:7068/api/User/UpdateByUserId?id=1 application/json 71 - 200 - application/json;+charset=utf-8 139.7494ms
+2024-04-13 10:40:09.5191 ${level} Request starting HTTP/2 GET https://localhost:7068/swagger/[object Module] - -
+2024-04-13 10:40:09.5191 ${level} Request finished HTTP/2 GET https://localhost:7068/swagger/[object Module] - - - 404 0 - 0.7066ms
+2024-04-13 10:40:28.8311 ${level} Request starting HTTP/2 PUT https://localhost:7068/api/User/UpdateByUserName?name=ram application/json 69
+2024-04-13 10:40:28.8331 ${level} Executing endpoint 'FundooNotesApk.Controllers.UserController.UpdateUserByName (FundooNotesApk)'
+2024-04-13 10:40:28.8331 ${level} Route matched with {action = "UpdateUserByName", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult UpdateUserByName(System.String, CommonLayer.Models.UserUpdateModel) on controller FundooNotesApk.Controllers.UserController (FundooNotesApk).
+2024-04-13 10:40:28.8519 ${level} Entity Framework Core 6.0.0 initialized 'FundooContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-04-13 10:40:28.8673 ${level} Executed DbCommand (5ms) [Parameters=[@__name_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[userID], [u].[CreatedDate], [u].[Email], [u].[FirstName], [u].[LastName], [u].[ModifiedDate], [u].[Password]
+FROM [user] AS [u]
+WHERE [u].[FirstName] = @__name_0
+2024-04-13 10:40:28.8673 ${level} Executed DbCommand (3ms) [Parameters=[@p3='?' (DbType = Int64), @p0='?' (Size = 4000), @p1='?' (Size = 4000), @p2='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [user] SET [Email] = @p0, [FirstName] = @p1, [LastName] = @p2
+WHERE [userID] = @p3;
+SELECT @@ROWCOUNT;
+2024-04-13 10:40:28.8673 ${level} Executing OkObjectResult, writing value of type 'CommonLayer.Models.ResponseModel`1[[System.Boolean, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-04-13 10:40:28.8673 ${level} Executed action FundooNotesApk.Controllers.UserController.UpdateUserByName (FundooNotesApk) in 37.0855ms
+2024-04-13 10:40:28.8673 ${level} Executed endpoint 'FundooNotesApk.Controllers.UserController.UpdateUserByName (FundooNotesApk)'
+2024-04-13 10:40:28.8673 ${level} Request finished HTTP/2 PUT https://localhost:7068/api/User/UpdateByUserName?name=ram application/json 69 - 200 - application/json;+charset=utf-8 43.8873ms
+2024-04-13 10:42:33.2283 ${level} Request starting HTTP/2 PUT https://localhost:7068/api/User/UpdateByUserName?name=string%20 application/json 61
+2024-04-13 10:42:33.2283 ${level} Executing endpoint 'FundooNotesApk.Controllers.UserController.UpdateUserByName (FundooNotesApk)'
+2024-04-13 10:42:33.2283 ${level} Route matched with {action = "UpdateUserByName", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult UpdateUserByName(System.String, CommonLayer.Models.UserUpdateModel) on controller FundooNotesApk.Controllers.UserController (FundooNotesApk).
+2024-04-13 10:42:33.2283 ${level} Entity Framework Core 6.0.0 initialized 'FundooContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-04-13 10:42:33.2412 ${level} Executed DbCommand (10ms) [Parameters=[@__name_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[userID], [u].[CreatedDate], [u].[Email], [u].[FirstName], [u].[LastName], [u].[ModifiedDate], [u].[Password]
+FROM [user] AS [u]
+WHERE [u].[FirstName] = @__name_0
+2024-04-13 10:42:33.2596 ${level} Executed DbCommand (16ms) [Parameters=[@p3='?' (DbType = Int64), @p0='?' (Size = 4000), @p1='?' (Size = 4000), @p2='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [user] SET [Email] = @p0, [FirstName] = @p1, [LastName] = @p2
+WHERE [userID] = @p3;
+SELECT @@ROWCOUNT;
+2024-04-13 10:42:33.2596 ${level} Executing OkObjectResult, writing value of type 'CommonLayer.Models.ResponseModel`1[[System.Boolean, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-04-13 10:42:33.2596 ${level} Executed action FundooNotesApk.Controllers.UserController.UpdateUserByName (FundooNotesApk) in 31.3936ms
+2024-04-13 10:42:33.2596 ${level} Executed endpoint 'FundooNotesApk.Controllers.UserController.UpdateUserByName (FundooNotesApk)'
+2024-04-13 10:42:33.2596 ${level} Request finished HTTP/2 PUT https://localhost:7068/api/User/UpdateByUserName?name=string%20 application/json 61 - 200 - application/json;+charset=utf-8 33.1252ms
+2024-04-13 10:45:21.5255 ${level} User profile is available. Using 'C:\Users\Rajesh Venteru\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-04-13 10:45:22.2667 ${level} Now listening on: https://localhost:7068
+2024-04-13 10:45:22.2667 ${level} Now listening on: http://localhost:5157
+2024-04-13 10:45:22.2693 ${level} Application started. Press Ctrl+C to shut down.
+2024-04-13 10:45:22.2693 ${level} Hosting environment: Development
+2024-04-13 10:45:22.2693 ${level} Content root path: C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\
+2024-04-13 10:45:22.5635 ${level} Request starting HTTP/2 GET https://localhost:7068/swagger/index.html - -
+2024-04-13 10:45:22.9734 ${level} Request starting HTTP/2 GET https://localhost:7068/_vs/browserLink - -
+2024-04-13 10:45:22.9734 ${level} Request starting HTTP/2 GET https://localhost:7068/_framework/aspnetcore-browser-refresh.js - -
+2024-04-13 10:45:22.9718 ${level} Request finished HTTP/2 GET https://localhost:7068/swagger/index.html - - - 200 - text/html;charset=utf-8 409.7781ms
+2024-04-13 10:45:22.9734 ${level} Request finished HTTP/2 GET https://localhost:7068/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 4.5381ms
+2024-04-13 10:45:23.0396 ${level} Request finished HTTP/2 GET https://localhost:7068/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 66.1477ms
+2024-04-13 10:45:23.4252 ${level} Request starting HTTP/2 GET https://localhost:7068/swagger/v1/swagger.json - -
+2024-04-13 10:45:23.8187 ${level} Request finished HTTP/2 GET https://localhost:7068/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 393.3845ms
+2024-04-13 10:45:37.8678 ${level} Request starting HTTP/2 GET https://localhost:7068/swagger/[object Module] - -
+2024-04-13 10:45:37.9838 ${level} Request finished HTTP/2 GET https://localhost:7068/swagger/[object Module] - - - 404 0 - 115.7747ms
+2024-04-13 10:46:12.9647 ${level} Request starting HTTP/2 PUT https://localhost:7068/api/User/UpdateByUserName?name=ram application/json 61
+2024-04-13 10:46:12.9647 ${level} Executing endpoint 'FundooNotesApk.Controllers.UserController.UpdateUserByName (FundooNotesApk)'
+2024-04-13 10:46:13.0350 ${level} Route matched with {action = "UpdateUserByName", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult UpdateUserByName(System.String, CommonLayer.Models.UserUpdateModel) on controller FundooNotesApk.Controllers.UserController (FundooNotesApk).
+2024-04-13 10:46:15.0628 ${level} Entity Framework Core 6.0.0 initialized 'FundooContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-04-13 10:46:16.6110 ${level} Executed DbCommand (104ms) [Parameters=[@__name_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[userID], [u].[CreatedDate], [u].[Email], [u].[FirstName], [u].[LastName], [u].[ModifiedDate], [u].[Password]
+FROM [user] AS [u]
+WHERE [u].[FirstName] = @__name_0
+2024-04-13 10:46:16.9378 ${level} Executing OkObjectResult, writing value of type '<>f__AnonymousType3`3[[System.Boolean, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Boolean, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-04-13 10:46:16.9536 ${level} Executed action FundooNotesApk.Controllers.UserController.UpdateUserByName (FundooNotesApk) in 3908.1727ms
+2024-04-13 10:46:16.9536 ${level} Executed endpoint 'FundooNotesApk.Controllers.UserController.UpdateUserByName (FundooNotesApk)'
+2024-04-13 10:46:16.9672 ${level} Request finished HTTP/2 PUT https://localhost:7068/api/User/UpdateByUserName?name=ram application/json 61 - 200 - application/json;+charset=utf-8 4002.4753ms
+2024-04-13 10:56:34.4300 ${level} Request starting HTTP/2 GET https://localhost:7068/swagger/[object Module] - -
+2024-04-13 10:56:34.4408 ${level} Request finished HTTP/2 GET https://localhost:7068/swagger/[object Module] - - - 404 0 - 10.7921ms
+2024-04-13 10:56:53.7826 ${level} Request starting HTTP/2 POST https://localhost:7068/api/User/Register application/json 91
+2024-04-13 10:56:53.7960 ${level} Executing endpoint 'FundooNotesApk.Controllers.UserController.RegisterUser (FundooNotesApk)'
+2024-04-13 10:56:53.8044 ${level} Route matched with {action = "RegisterUser", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult RegisterUser(CommonLayer.Models.UserRegistrationModel) on controller FundooNotesApk.Controllers.UserController (FundooNotesApk).
+2024-04-13 10:56:53.8335 ${level} Entity Framework Core 6.0.0 initialized 'FundooContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-04-13 10:56:53.8589 ${level} Executed DbCommand (5ms) [Parameters=[@__mail_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[userID], [u].[CreatedDate], [u].[Email], [u].[FirstName], [u].[LastName], [u].[ModifiedDate], [u].[Password]
+FROM [user] AS [u]
+WHERE [u].[Email] = @__mail_0
+2024-04-13 10:56:53.8589 ${level} Executing BadRequestObjectResult, writing value of type 'System.String'.
+2024-04-13 10:56:53.8629 ${level} Executed action FundooNotesApk.Controllers.UserController.RegisterUser (FundooNotesApk) in 58.2932ms
+2024-04-13 10:56:53.8629 ${level} Executed endpoint 'FundooNotesApk.Controllers.UserController.RegisterUser (FundooNotesApk)'
+2024-04-13 10:56:53.8629 ${level} Request finished HTTP/2 POST https://localhost:7068/api/User/Register application/json 91 - 400 - text/plain;+charset=utf-8 80.7499ms
+2024-04-13 11:07:23.4208 ${level} Request starting HTTP/2 GET https://localhost:7068/swagger/[object Module] - -
+2024-04-13 11:07:23.4208 ${level} Request finished HTTP/2 GET https://localhost:7068/swagger/[object Module] - - - 404 0 - 2.7090ms
+2024-04-13 11:07:30.5296 ${level} Request starting HTTP/2 GET https://localhost:7068/api/User/count of users - -
+2024-04-13 11:07:30.5296 ${level} Executing endpoint 'FundooNotesApk.Controllers.UserController.GetUserCount (FundooNotesApk)'
+2024-04-13 11:07:30.5296 ${level} Route matched with {action = "GetUserCount", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetUserCount() on controller FundooNotesApk.Controllers.UserController (FundooNotesApk).
+2024-04-13 11:07:30.6373 ${level} Entity Framework Core 6.0.0 initialized 'FundooContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-04-13 11:07:30.6777 ${level} Executed DbCommand (4ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [user] AS [u]
+2024-04-13 11:07:30.6777 ${level} Executing OkObjectResult, writing value of type '<>f__AnonymousType4`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Int32, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-04-13 11:07:30.6777 ${level} Executed action FundooNotesApk.Controllers.UserController.GetUserCount (FundooNotesApk) in 147.6839ms
+2024-04-13 11:07:30.6777 ${level} Executed endpoint 'FundooNotesApk.Controllers.UserController.GetUserCount (FundooNotesApk)'
+2024-04-13 11:07:30.6777 ${level} Request finished HTTP/2 GET https://localhost:7068/api/User/count of users - - - 200 - application/json;+charset=utf-8 151.8006ms
+2024-04-13 11:21:43.6295 ${level} User profile is available. Using 'C:\Users\Rajesh Venteru\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-04-13 11:21:44.6035 ${level} Now listening on: https://localhost:7068
+2024-04-13 11:21:44.6035 ${level} Now listening on: http://localhost:5157
+2024-04-13 11:21:44.6035 ${level} Application started. Press Ctrl+C to shut down.
+2024-04-13 11:21:44.6035 ${level} Hosting environment: Development
+2024-04-13 11:21:44.6035 ${level} Content root path: C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\
+2024-04-13 11:21:45.2727 ${level} Request starting HTTP/2 GET https://localhost:7068/swagger/index.html - -
+2024-04-13 11:21:45.7362 ${level} Request finished HTTP/2 GET https://localhost:7068/swagger/index.html - - - 200 - text/html;charset=utf-8 464.3623ms
+2024-04-13 11:21:45.7507 ${level} Request starting HTTP/2 GET https://localhost:7068/_framework/aspnetcore-browser-refresh.js - -
+2024-04-13 11:21:45.7507 ${level} Request starting HTTP/2 GET https://localhost:7068/_vs/browserLink - -
+2024-04-13 11:21:45.7536 ${level} Request finished HTTP/2 GET https://localhost:7068/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 2.8542ms
+2024-04-13 11:21:45.8177 ${level} Request finished HTTP/2 GET https://localhost:7068/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 66.8773ms
+2024-04-13 11:21:46.1932 ${level} Request starting HTTP/2 GET https://localhost:7068/swagger/v1/swagger.json - -
+2024-04-13 11:21:46.6816 ${level} Request finished HTTP/2 GET https://localhost:7068/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 488.4159ms
+2024-04-13 11:21:52.4594 ${level} Request starting HTTP/2 GET https://localhost:7068/swagger/[object Module] - -
+2024-04-13 11:21:52.5639 ${level} Request finished HTTP/2 GET https://localhost:7068/swagger/[object Module] - - - 404 0 - 104.4595ms
+2024-04-13 11:22:00.7529 ${level} Request starting HTTP/2 GET https://localhost:7068/api/Notes/count of users?userid=8 - -
+2024-04-13 11:22:00.7580 ${level} Executing endpoint 'FundooNotesApk.Controllers.NotesController.GetNotesCount (FundooNotesApk)'
+2024-04-13 11:22:00.8248 ${level} Route matched with {action = "GetNotesCount", controller = "Notes"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetNotesCount(Int64) on controller FundooNotesApk.Controllers.NotesController (FundooNotesApk).
+2024-04-13 11:22:02.9669 ${level} Entity Framework Core 6.0.0 initialized 'FundooContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-04-13 11:22:04.4546 ${level} Executed DbCommand (70ms) [Parameters=[@__userId_0='?' (DbType = Int64)], CommandType='Text', CommandTimeout='30']
+SELECT COUNT(*)
+FROM [UserNotes] AS [u]
+WHERE [u].[UserID] = @__userId_0
+2024-04-13 11:22:04.5139 ${level} Executing OkObjectResult, writing value of type '<>f__AnonymousType3`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Int32, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-04-13 11:22:04.5275 ${level} Executed action FundooNotesApk.Controllers.NotesController.GetNotesCount (FundooNotesApk) in 3695.2883ms
+2024-04-13 11:22:04.5275 ${level} Executed endpoint 'FundooNotesApk.Controllers.NotesController.GetNotesCount (FundooNotesApk)'
+2024-04-13 11:22:04.5411 ${level} Request finished HTTP/2 GET https://localhost:7068/api/Notes/count of users?userid=8 - - - 200 - application/json;+charset=utf-8 3788.2461ms
+2024-04-13 11:34:41.1331 ${level} Request starting HTTP/2 GET https://localhost:7068/swagger/[object Module] - -
+2024-04-13 11:34:41.1494 ${level} Request finished HTTP/2 GET https://localhost:7068/swagger/[object Module] - - - 404 0 - 16.2500ms
+2024-04-13 11:34:48.4338 ${level} Request starting HTTP/2 GET https://localhost:7068/api/User/GetDetailsByName?name=ram - -
+2024-04-13 11:34:48.4338 ${level} Executing endpoint 'FundooNotesApk.Controllers.UserController.GetDetailsByName (FundooNotesApk)'
+2024-04-13 11:34:48.4431 ${level} Route matched with {action = "GetDetailsByName", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetDetailsByName(System.String) on controller FundooNotesApk.Controllers.UserController (FundooNotesApk).
+2024-04-13 11:34:48.4888 ${level} Entity Framework Core 6.0.0 initialized 'FundooContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-04-13 11:34:48.6167 ${level} Executed DbCommand (6ms) [Parameters=[@__name_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[userID], [u].[CreatedDate], [u].[Email], [u].[FirstName], [u].[LastName], [u].[ModifiedDate], [u].[Password]
+FROM [user] AS [u]
+WHERE [u].[FirstName] = @__name_0
+2024-04-13 11:34:48.7343 ${level} Executed action FundooNotesApk.Controllers.UserController.GetDetailsByName (FundooNotesApk) in 290.9282ms
+2024-04-13 11:34:48.7343 ${level} Executed endpoint 'FundooNotesApk.Controllers.UserController.GetDetailsByName (FundooNotesApk)'
+2024-04-13 11:34:48.7439 ${level} An unhandled exception has occurred while executing the request.
+2024-04-13 11:34:49.0704 ${level} Request finished HTTP/2 GET https://localhost:7068/api/User/GetDetailsByName?name=ram - - - 500 - text/plain;+charset=utf-8 636.6272ms
+2024-04-13 11:38:00.5921 ${level} User profile is available. Using 'C:\Users\Rajesh Venteru\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-04-13 11:38:01.4751 ${level} Now listening on: https://localhost:7068
+2024-04-13 11:38:01.4751 ${level} Now listening on: http://localhost:5157
+2024-04-13 11:38:01.4751 ${level} Application started. Press Ctrl+C to shut down.
+2024-04-13 11:38:01.4751 ${level} Hosting environment: Development
+2024-04-13 11:38:01.4751 ${level} Content root path: C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\
+2024-04-13 11:38:02.0229 ${level} Request starting HTTP/2 GET https://localhost:7068/swagger/index.html - -
+2024-04-13 11:38:02.5308 ${level} Request starting HTTP/2 GET https://localhost:7068/_framework/aspnetcore-browser-refresh.js - -
+2024-04-13 11:38:02.5308 ${level} Request finished HTTP/2 GET https://localhost:7068/swagger/index.html - - - 200 - text/html;charset=utf-8 511.3998ms
+2024-04-13 11:38:02.5308 ${level} Request starting HTTP/2 GET https://localhost:7068/_vs/browserLink - -
+2024-04-13 11:38:02.5349 ${level} Request finished HTTP/2 GET https://localhost:7068/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 3.1391ms
+2024-04-13 11:38:02.6786 ${level} Request finished HTTP/2 GET https://localhost:7068/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 145.0060ms
+2024-04-13 11:38:02.9536 ${level} Request starting HTTP/2 GET https://localhost:7068/swagger/v1/swagger.json - -
+2024-04-13 11:38:03.2243 ${level} Request finished HTTP/2 GET https://localhost:7068/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 270.6417ms
+2024-04-13 11:38:10.4800 ${level} Request starting HTTP/2 GET https://localhost:7068/swagger/[object Module] - -
+2024-04-13 11:38:10.5900 ${level} Request finished HTTP/2 GET https://localhost:7068/swagger/[object Module] - - - 404 0 - 109.9635ms
+2024-04-13 11:38:21.1400 ${level} Request starting HTTP/2 GET https://localhost:7068/api/User/GetDetailsByName?name=ram - -
+2024-04-13 11:38:21.1469 ${level} Executing endpoint 'FundooNotesApk.Controllers.UserController.GetDetailsByName (FundooNotesApk)'
+2024-04-13 11:38:21.2222 ${level} Route matched with {action = "GetDetailsByName", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetDetailsByName(System.String) on controller FundooNotesApk.Controllers.UserController (FundooNotesApk).
+2024-04-13 11:38:23.4670 ${level} Entity Framework Core 6.0.0 initialized 'FundooContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-04-13 11:38:24.9215 ${level} Executed DbCommand (62ms) [Parameters=[@__name_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[userID], [u].[CreatedDate], [u].[Email], [u].[FirstName], [u].[LastName], [u].[ModifiedDate], [u].[Password]
+FROM [user] AS [u]
+WHERE [u].[FirstName] = @__name_0
+2024-04-13 11:38:25.1292 ${level} Executing OkObjectResult, writing value of type '<>f__AnonymousType4`3[[System.Boolean, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-04-13 11:38:25.1463 ${level} Executed action FundooNotesApk.Controllers.UserController.GetDetailsByName (FundooNotesApk) in 3920.2335ms
+2024-04-13 11:38:25.1463 ${level} Executed endpoint 'FundooNotesApk.Controllers.UserController.GetDetailsByName (FundooNotesApk)'
+2024-04-13 11:38:25.1463 ${level} Request finished HTTP/2 GET https://localhost:7068/api/User/GetDetailsByName?name=ram - - - 200 - application/json;+charset=utf-8 4011.6301ms
+2024-04-13 11:52:42.6918 ${level} User profile is available. Using 'C:\Users\Rajesh Venteru\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-04-13 11:52:43.9323 ${level} Now listening on: https://localhost:7068
+2024-04-13 11:52:43.9323 ${level} Now listening on: http://localhost:5157
+2024-04-13 11:52:43.9429 ${level} Application started. Press Ctrl+C to shut down.
+2024-04-13 11:52:43.9429 ${level} Hosting environment: Development
+2024-04-13 11:52:43.9429 ${level} Content root path: C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\
+2024-04-13 11:52:44.6174 ${level} Request starting HTTP/2 GET https://localhost:7068/swagger/index.html - -
+2024-04-13 11:52:45.2095 ${level} Request finished HTTP/2 GET https://localhost:7068/swagger/index.html - - - 200 - text/html;charset=utf-8 593.3359ms
+2024-04-13 11:52:45.2764 ${level} Request starting HTTP/2 GET https://localhost:7068/_vs/browserLink - -
+2024-04-13 11:52:45.2764 ${level} Request starting HTTP/2 GET https://localhost:7068/_framework/aspnetcore-browser-refresh.js - -
+2024-04-13 11:52:45.2910 ${level} Request finished HTTP/2 GET https://localhost:7068/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 9.2429ms
+2024-04-13 11:52:45.4487 ${level} Request finished HTTP/2 GET https://localhost:7068/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 172.2874ms
+2024-04-13 11:52:46.5715 ${level} Request starting HTTP/2 GET https://localhost:7068/swagger/v1/swagger.json - -
+2024-04-13 11:52:46.9590 ${level} Request finished HTTP/2 GET https://localhost:7068/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 387.5646ms
+2024-04-13 11:53:08.3267 ${level} Request starting HTTP/2 GET https://localhost:7068/swagger/[object Module] - -
+2024-04-13 11:53:08.4386 ${level} Request finished HTTP/2 GET https://localhost:7068/swagger/[object Module] - - - 404 0 - 111.9297ms
+2024-04-13 11:53:23.4345 ${level} Request starting HTTP/2 GET https://localhost:7068/api/Notes/GetDetailsOfLabel?noteId=1 - -
+2024-04-13 11:53:23.4345 ${level} Executing endpoint 'FundooNotesApk.Controllers.NotesController.GetDetailsByName (FundooNotesApk)'
+2024-04-13 11:53:23.4973 ${level} Route matched with {action = "GetDetailsByName", controller = "Notes"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetDetailsByName(Int64) on controller FundooNotesApk.Controllers.NotesController (FundooNotesApk).
+2024-04-13 11:53:25.3250 ${level} Entity Framework Core 6.0.0 initialized 'FundooContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-04-13 11:53:26.5023 ${level} Executed DbCommand (75ms) [Parameters=[@__noteid_0='?' (DbType = Int64)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[NoteId], [u].[Color], [u].[CreatedAt], [u].[Description], [u].[IsArchive], [u].[IsPinned], [u].[IsTrash], [u].[ModifiedAt], [u].[Remainder], [u].[Title], [u].[UserID]
+FROM [UserNotes] AS [u]
+WHERE [u].[NoteId] = @__noteid_0
+2024-04-13 11:53:26.6593 ${level} Executing OkObjectResult, writing value of type '<>f__AnonymousType4`3[[System.Boolean, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-04-13 11:53:26.6816 ${level} Executed action FundooNotesApk.Controllers.NotesController.GetDetailsByName (FundooNotesApk) in 3176.4026ms
+2024-04-13 11:53:26.6816 ${level} Executed endpoint 'FundooNotesApk.Controllers.NotesController.GetDetailsByName (FundooNotesApk)'
+2024-04-13 11:53:26.6923 ${level} Request finished HTTP/2 GET https://localhost:7068/api/Notes/GetDetailsOfLabel?noteId=1 - - - 200 - application/json;+charset=utf-8 3257.7930ms
+2024-04-13 11:58:46.1234 ${level} User profile is available. Using 'C:\Users\Rajesh Venteru\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-04-13 11:58:47.1045 ${level} Now listening on: https://localhost:7068
+2024-04-13 11:58:47.1045 ${level} Now listening on: http://localhost:5157
+2024-04-13 11:58:47.1045 ${level} Application started. Press Ctrl+C to shut down.
+2024-04-13 11:58:47.1045 ${level} Hosting environment: Development
+2024-04-13 11:58:47.1045 ${level} Content root path: C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\
+2024-04-13 11:58:47.4239 ${level} Request starting HTTP/2 GET https://localhost:7068/swagger/index.html - -
+2024-04-13 11:58:47.9187 ${level} Request finished HTTP/2 GET https://localhost:7068/swagger/index.html - - - 200 - text/html;charset=utf-8 495.3830ms
+2024-04-13 11:58:47.9721 ${level} Request starting HTTP/2 GET https://localhost:7068/_framework/aspnetcore-browser-refresh.js - -
+2024-04-13 11:58:47.9721 ${level} Request starting HTTP/2 GET https://localhost:7068/_vs/browserLink - -
+2024-04-13 11:58:47.9721 ${level} Request finished HTTP/2 GET https://localhost:7068/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 5.4008ms
+2024-04-13 11:58:48.1499 ${level} Request finished HTTP/2 GET https://localhost:7068/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 175.5810ms
+2024-04-13 11:58:48.4037 ${level} Request starting HTTP/2 GET https://localhost:7068/swagger/v1/swagger.json - -
+2024-04-13 11:58:48.7697 ${level} Request finished HTTP/2 GET https://localhost:7068/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 365.9307ms
+2024-04-13 11:58:55.7562 ${level} Request starting HTTP/2 GET https://localhost:7068/swagger/[object Module] - -
+2024-04-13 11:58:55.8896 ${level} Request finished HTTP/2 GET https://localhost:7068/swagger/[object Module] - - - 404 0 - 133.4973ms
+2024-04-13 11:59:00.0174 ${level} Request starting HTTP/2 GET https://localhost:7068/api/Label/GetAllLabels - -
+2024-04-13 11:59:00.0309 ${level} Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-04-13 11:59:00.0408 ${level} AuthenticationScheme: Bearer was challenged.
+2024-04-13 11:59:00.0408 ${level} Request finished HTTP/2 GET https://localhost:7068/api/Label/GetAllLabels - - - 401 0 - 24.1159ms
+2024-04-13 12:01:19.4320 ${level} Request starting HTTP/2 GET https://localhost:7068/swagger/[object Module] - -
+2024-04-13 12:01:19.4320 ${level} Request finished HTTP/2 GET https://localhost:7068/swagger/[object Module] - - - 404 0 - 7.2135ms
+2024-04-13 12:01:25.0630 ${level} Request starting HTTP/2 GET https://localhost:7068/api/Notes/GetNotesByUserId?userid=1 - -
+2024-04-13 12:01:25.0658 ${level} Executing endpoint 'FundooNotesApk.Controllers.NotesController.GetNotesByUserId (FundooNotesApk)'
+2024-04-13 12:01:25.1701 ${level} Route matched with {action = "GetNotesByUserId", controller = "Notes"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetNotesByUserId(Int64) on controller FundooNotesApk.Controllers.NotesController (FundooNotesApk).
+2024-04-13 12:01:27.1483 ${level} Entity Framework Core 6.0.0 initialized 'FundooContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.0' with options: None
+2024-04-13 12:01:28.2885 ${level} Executed DbCommand (78ms) [Parameters=[@__userid_0='?' (DbType = Int64)], CommandType='Text', CommandTimeout='30']
+SELECT [u].[NoteId], [u].[Color], [u].[CreatedAt], [u].[Description], [u].[IsArchive], [u].[IsPinned], [u].[IsTrash], [u].[ModifiedAt], [u].[Remainder], [u].[Title], [u].[UserID]
+FROM [UserNotes] AS [u]
+WHERE [u].[UserID] = @__userid_0
+2024-04-13 12:01:28.3331 ${level} Executed action FundooNotesApk.Controllers.NotesController.GetNotesByUserId (FundooNotesApk) in 3157.3536ms
+2024-04-13 12:01:28.3331 ${level} Executed endpoint 'FundooNotesApk.Controllers.NotesController.GetNotesByUserId (FundooNotesApk)'
+2024-04-13 12:01:28.3331 ${level} An unhandled exception has occurred while executing the request.
+2024-04-13 12:01:28.4224 ${level} Request finished HTTP/2 GET https://localhost:7068/api/Notes/GetNotesByUserId?userid=1 - - - 500 - text/plain;+charset=utf-8 3359.3803ms

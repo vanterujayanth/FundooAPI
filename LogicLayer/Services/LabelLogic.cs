@@ -1,6 +1,7 @@
 ﻿using LogicLayer.Interface;
 using ReposetoryLayer.Entity;
 using ReposetoryLayer.Interface;
+using ReposetoryLayer.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,10 +10,10 @@ using System.Threading.Tasks;
 
 namespace LogicLayer.Services
 {
-    public class LabelLogic:ILabelLogic
+    public class LabelLogic : ILabelLogic
     {
-        private readonly ILabelRepo ilabelRepo; 
-        public LabelLogic(ILabelRepo ilabelREpo) 
+        private readonly ILabelRepo ilabelRepo;
+        public LabelLogic(ILabelRepo ilabelREpo)
         {
             this.ilabelRepo = ilabelREpo;
         }
@@ -23,7 +24,7 @@ namespace LogicLayer.Services
         }
         public LabelEntity UpdateLable(long userId, long labelId, string labelname)
         {
-            return ilabelRepo.UpdateLable(userId,labelId,labelname);
+            return ilabelRepo.UpdateLable(userId, labelId, labelname);
         }
         public IEnumerable<LabelEntity> GetAlllabels(long userid)
         {
@@ -32,6 +33,11 @@ namespace LogicLayer.Services
         public LabelEntity DeleteLabel(long userId, long labelId)
         {
             return ilabelRepo.DeleteLabel(userId, labelId);
+        }
+        public object GetDetailsByName(long noteid)
+        {
+            return ilabelRepo.GetDetailsByName(noteid);
+
         }
     }
 }

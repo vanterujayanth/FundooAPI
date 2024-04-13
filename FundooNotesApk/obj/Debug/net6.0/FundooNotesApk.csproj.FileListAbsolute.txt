@@ -93,3 +93,4 @@ C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\bin\Deb
 C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
 C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\obj\Debug\net6.0\FundooNotesApk.sourcelink.json

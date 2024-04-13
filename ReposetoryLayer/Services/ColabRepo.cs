@@ -4,6 +4,7 @@ using ReposetoryLayer.Context;
 using ReposetoryLayer.Entity;
 using ReposetoryLayer.GlobalException;
 using ReposetoryLayer.Interface;
+using ReposetoryLayer.Migrations;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -79,6 +80,19 @@ namespace ReposetoryLayer.Services
             else
             {
                 return null;
+            }
+        }
+        //find count of collaborators of a particular user
+        public int CountNumberCollaborators(long userId)
+        {
+            var count = fundooContext.UserNotes.Count(x => x.UserID == userId);
+            if (count > 0)
+            {
+                return count;
+            }
+            else
+            {
+                return 0;
             }
         }
 

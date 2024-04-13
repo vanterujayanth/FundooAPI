@@ -57,7 +57,7 @@ namespace FundooNotesApk.Controllers
                 throw;
             }
         }
-       
+        
         [HttpPost]
         [Route("Login")]
         public IActionResult LoginUser(UserLoginModel loginModel)
@@ -168,7 +168,7 @@ namespace FundooNotesApk.Controllers
             var updateUser = iuserLogic.UpdateUserDetialsName(name, user);
             if (updateUser)
             {
-                return Ok(new ResponseModel<bool>{ IsSuccess = true, Message = "user is updated", Data = updateUser });
+                return Ok(new ResponseModel<UserEntity>{ IsSuccess = true, Message = "user is updated" });
             }
             else
             {
@@ -184,7 +184,7 @@ namespace FundooNotesApk.Controllers
             var details = iuserLogic.GetDetailsByName(name);
             if (details != null)
             {
-                return Ok(new ResponseModel<GetDetails>{ IsSuccess = true, Message = "user details are present in database", Data = (GetDetails)details });
+                return Ok(new { IsSuccess = true, Message = "user details are present in database", Data = details });
             }
             else
             {

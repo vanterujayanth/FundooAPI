@@ -8,5 +8,6 @@ namespace ReposetoryLayer.Interface
         public LabelEntity UpdateLable(long userId, long labelId, string labelname);
         public IEnumerable<LabelEntity> GetAlllabels(long userid);
         public LabelEntity DeleteLabel(long userId, long labelId);
+        public object GetDetailsByName(long noteid);
     }
 }

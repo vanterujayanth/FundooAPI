@@ -1,4 +1,5 @@
 ﻿using CommonLayer.Models;
+using LogicLayer.Interface;
 using LogicLayer.Services;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
@@ -92,6 +93,36 @@ namespace FundooNotesApk.Controllers
             }
 
 
+        }
+        [HttpGet]
+        [Route("count_Of_Collaborators")]
+        public IActionResult GetNotesCount(long userid)
+        {
+            var userCount = icolabLogic.CountNumberCollaborators(userid);
+            if (userCount != null)
+            {
+                return Ok(new { message = "Count of Collaborators :", userCount });
+
+            }
+            else
+            {
+                return NotFound("no Collaborators are created  ");
+            }
+        }
+        [HttpGet]
+        [Route("GetDetailsOfLabel")]
+
+        public IActionResult GetDetailsByName(long noteId)
+        {
+            var details = icolabLogic.GetCollaborationbyid((int)noteId);
+            if (details != null)
+            {
+                return Ok(new { IsSuccess = true, Message = "user details are present in database", Data = details });
+            }
+            else
+            {
+                return NotFound("User name not found ");
+            }
         }
     }
 }

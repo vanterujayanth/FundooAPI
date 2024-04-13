@@ -1,6 +1,7 @@
 ﻿using CommonLayer.Models;
 using GreenPipes.Caching;
 using LogicLayer.Interface;
+using LogicLayer.Services;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -131,6 +132,20 @@ namespace FundooNotesApk.Controllers
                 return NotFound(new ResponseModel<NotesEntity> { Message = "Note not fetched", Data = note });
             }
         }
+        [HttpGet("Get_By_Notes_Title")]
+        public IActionResult GetNotesByTitle(String  title,string description)
+        {
+            var note = inotesLogic.GetNotesByTitle(title, description);
+            if(note != null)
+            {
+                return Ok(new ResponseModel<NotesEntity> { Data = note });
+            }
+            else
+            {
+                return NotFound("data not found");
+
+            }
+        }
 
         [HttpGet("GetNotesByUserId")]
         public IActionResult GetNotesByUserId(long userid)
@@ -225,6 +240,34 @@ namespace FundooNotesApk.Controllers
                 await _distributedCache.SetAsync(CachKey, dataToCache, options);
             }
             return notesEntities;
+        }
+        [HttpGet]
+        [Route("count_Of_Notes")]
+        public IActionResult GetNotesCount(long userid)
+        {
+            var userCount = inotesLogic.CountNumberOfNotes(userid);
+            if (userCount != null)
+            {
+                return Ok(new { message = "Count the  Notes :", userCount });
+
+            }
+            else
+            {
+                return NotFound("no notes are created  ");
+            }
+        }
+        [HttpGet("GetNotesByDate")]
+        public IActionResult GetNotesBydate(DateTime date)
+        {
+            var notes = inotesLogic.GetNotesByDate(date);
+            if (notes != null)
+            {
+                return Ok(new { Message = "this are  notes are found ", Data = notes });
+            }
+            else
+            {
+                return NotFound(new  { Message = "User notes are not found", Data = notes });
+            }
         }
     }
 }

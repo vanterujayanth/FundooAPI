@@ -31,7 +31,7 @@ namespace FundooNotesApk.Controllers
             _distributedCache = distributedCache;
             _fundooContext = fundooContext;
         }
-      //  [Authorize]
+        [Authorize]
         [HttpPost("CreateNotes")]
         public IActionResult Create([FromForm] NotesModel model)
         {
@@ -40,7 +40,7 @@ namespace FundooNotesApk.Controllers
                 long userid = Convert.ToInt64(HttpContext.Session.GetInt32("userID"));
                 // var userid = long.Parse(User.Claims.Where(x => x.Type == "UserID").FirstOrDefault().Value);
                 var result = inotesLogic.CreateNotes(model, userid);
-                if (result != null)
+                if (result == null)
                 {
                     return Ok(new ResponseModel<string> { IsSuccess = true, Message = "created Notes Successfully.", Data = result });
 

@@ -10,9 +10,9 @@ C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\LogicLayer\obj\Debug\n
 C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\LogicLayer\obj\Debug\net6.0\LogicLayer.AssemblyInfoInputs.cache
 C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\LogicLayer\obj\Debug\net6.0\LogicLayer.AssemblyInfo.cs
 C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\LogicLayer\obj\Debug\net6.0\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\LogicLayer\obj\Debug\net6.0\LogicLayer.sourcelink.json
 C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\LogicLayer\obj\Debug\net6.0\LogicLayer.csproj.Up2Date
 C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\LogicLayer\obj\Debug\net6.0\LogicLayer.dll
 C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\LogicLayer\obj\Debug\net6.0\refint\LogicLayer.dll
 C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\LogicLayer\obj\Debug\net6.0\LogicLayer.pdb
 C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\LogicLayer\obj\Debug\net6.0\ref\LogicLayer.dll
-C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\LogicLayer\obj\Debug\net6.0\LogicLayer.sourcelink.json

@@ -3,20 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D4781B0-B3EE-4C62-956C-1EC60284AF4D}|LogicLayer\\LogicLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\logiclayer\\interface\\icolablogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D4781B0-B3EE-4C62-956C-1EC60284AF4D}|LogicLayer\\LogicLayer.csproj|solutionrelative:logiclayer\\interface\\icolablogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B12E5293-3D02-4B8C-9E8F-A91C5E0C89F3}|CommonLayer\\CommonLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\commonlayer\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B12E5293-3D02-4B8C-9E8F-A91C5E0C89F3}|CommonLayer\\CommonLayer.csproj|solutionrelative:commonlayer\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47FA5094-9F2A-4664-943E-3C86F7457789}|FundooNotesApk\\FundooNotesApk.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\fundoonotesapk\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47FA5094-9F2A-4664-943E-3C86F7457789}|FundooNotesApk\\FundooNotesApk.csproj|solutionrelative:fundoonotesapk\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\reposetorylayer\\entity\\notesentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|solutionrelative:reposetorylayer\\entity\\notesentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47FA5094-9F2A-4664-943E-3C86F7457789}|FundooNotesApk\\FundooNotesApk.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\fundoonotesapk\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47FA5094-9F2A-4664-943E-3C86F7457789}|FundooNotesApk\\FundooNotesApk.csproj|solutionrelative:fundoonotesapk\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5D4781B0-B3EE-4C62-956C-1EC60284AF4D}|LogicLayer\\LogicLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\logiclayer\\services\\noteslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4781B0-B3EE-4C62-956C-1EC60284AF4D}|LogicLayer\\LogicLayer.csproj|solutionrelative:logiclayer\\services\\noteslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\reposetorylayer\\services\\noterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|solutionrelative:reposetorylayer\\services\\noterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FA5094-9F2A-4664-943E-3C86F7457789}|FundooNotesApk\\FundooNotesApk.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\fundoonotesapk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47FA5094-9F2A-4664-943E-3C86F7457789}|FundooNotesApk\\FundooNotesApk.csproj|solutionrelative:fundoonotesapk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{47FA5094-9F2A-4664-943E-3C86F7457789}|FundooNotesApk\\FundooNotesApk.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\fundoonotesapk\\controllers\\labelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47FA5094-9F2A-4664-943E-3C86F7457789}|FundooNotesApk\\FundooNotesApk.csproj|solutionrelative:fundoonotesapk\\controllers\\labelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FA5094-9F2A-4664-943E-3C86F7457789}|FundooNotesApk\\FundooNotesApk.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\fundoonotesapk\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47FA5094-9F2A-4664-943E-3C86F7457789}|FundooNotesApk\\FundooNotesApk.csproj|solutionrelative:fundoonotesapk\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FA5094-9F2A-4664-943E-3C86F7457789}|FundooNotesApk\\FundooNotesApk.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\fundoonotesapk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{47FA5094-9F2A-4664-943E-3C86F7457789}|FundooNotesApk\\FundooNotesApk.csproj|solutionrelative:fundoonotesapk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\reposetorylayer\\services\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|solutionrelative:reposetorylayer\\services\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\reposetorylayer\\context\\fundoocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|solutionrelative:reposetorylayer\\context\\fundoocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\reposetorylayer\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|solutionrelative:reposetorylayer\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\reposetorylayer\\entity\\collaboratorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|solutionrelative:reposetorylayer\\entity\\collaboratorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4781B0-B3EE-4C62-956C-1EC60284AF4D}|LogicLayer\\LogicLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\logiclayer\\interface\\icolablogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4781B0-B3EE-4C62-956C-1EC60284AF4D}|LogicLayer\\LogicLayer.csproj|solutionrelative:logiclayer\\interface\\icolablogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47FA5094-9F2A-4664-943E-3C86F7457789}|FundooNotesApk\\FundooNotesApk.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\fundoonotesapk\\controllers\\colabcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,28 +79,12 @@
       "RelativeMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|solutionrelative:reposetorylayer\\services\\colabrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\reposetorylayer\\services\\noterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|solutionrelative:reposetorylayer\\services\\noterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\reposetorylayer\\services\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|solutionrelative:reposetorylayer\\services\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5D4781B0-B3EE-4C62-956C-1EC60284AF4D}|LogicLayer\\LogicLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\logiclayer\\interface\\inoteslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D4781B0-B3EE-4C62-956C-1EC60284AF4D}|LogicLayer\\LogicLayer.csproj|solutionrelative:logiclayer\\interface\\inoteslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D4781B0-B3EE-4C62-956C-1EC60284AF4D}|LogicLayer\\LogicLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\logiclayer\\services\\noteslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D4781B0-B3EE-4C62-956C-1EC60284AF4D}|LogicLayer\\LogicLayer.csproj|solutionrelative:logiclayer\\services\\noteslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\reposetorylayer\\interface\\inotesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|solutionrelative:reposetorylayer\\interface\\inotesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\reposetorylayer\\entity\\notesentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|solutionrelative:reposetorylayer\\entity\\notesentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\reposetorylayer\\interface\\ilabelrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -103,28 +127,12 @@
       "RelativeMoniker": "D:0:0:{B12E5293-3D02-4B8C-9E8F-A91C5E0C89F3}|CommonLayer\\CommonLayer.csproj|solutionrelative:commonlayer\\models\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\reposetorylayer\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|solutionrelative:reposetorylayer\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47FA5094-9F2A-4664-943E-3C86F7457789}|FundooNotesApk\\FundooNotesApk.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\fundoonotesapk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{47FA5094-9F2A-4664-943E-3C86F7457789}|FundooNotesApk\\FundooNotesApk.csproj|solutionrelative:fundoonotesapk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B12E5293-3D02-4B8C-9E8F-A91C5E0C89F3}|CommonLayer\\CommonLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\commonlayer\\models\\resetpasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B12E5293-3D02-4B8C-9E8F-A91C5E0C89F3}|CommonLayer\\CommonLayer.csproj|solutionrelative:commonlayer\\models\\resetpasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B12E5293-3D02-4B8C-9E8F-A91C5E0C89F3}|CommonLayer\\CommonLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\commonlayer\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B12E5293-3D02-4B8C-9E8F-A91C5E0C89F3}|CommonLayer\\CommonLayer.csproj|solutionrelative:commonlayer\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B12E5293-3D02-4B8C-9E8F-A91C5E0C89F3}|CommonLayer\\CommonLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\commonlayer\\models\\userloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B12E5293-3D02-4B8C-9E8F-A91C5E0C89F3}|CommonLayer\\CommonLayer.csproj|solutionrelative:commonlayer\\models\\userloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47FA5094-9F2A-4664-943E-3C86F7457789}|FundooNotesApk\\FundooNotesApk.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\fundoonotesapk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47FA5094-9F2A-4664-943E-3C86F7457789}|FundooNotesApk\\FundooNotesApk.csproj|solutionrelative:fundoonotesapk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B12E5293-3D02-4B8C-9E8F-A91C5E0C89F3}|CommonLayer\\CommonLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\commonlayer\\models\\getdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -151,14 +159,6 @@
       "RelativeMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|solutionrelative:reposetorylayer\\migrations\\20240410115236_collaborator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\reposetorylayer\\entity\\collaboratorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|solutionrelative:reposetorylayer\\entity\\collaboratorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\reposetorylayer\\context\\fundoocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|solutionrelative:reposetorylayer\\context\\fundoocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\fundoonotesapk\\reposetorylayer\\migrations\\fundoocontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{876E24C5-2A81-4ABD-B6F1-A240802DC0B5}|ReposetoryLayer\\ReposetoryLayer.csproj|solutionrelative:reposetorylayer\\migrations\\fundoocontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -178,107 +178,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 25,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\FundooNotesApk\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "FundooNotesApk\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\FundooNotesApk\\Controllers\\UserController.cs",
+              "RelativeToolTip": "FundooNotesApk\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAAYBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T04:59:14.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "20240401135426_user.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Migrations\\20240401135426_user.cs",
-              "RelativeDocumentMoniker": "ReposetoryLayer\\Migrations\\20240401135426_user.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Migrations\\20240401135426_user.cs",
-              "RelativeToolTip": "ReposetoryLayer\\Migrations\\20240401135426_user.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAAB4AAABHAAAA",
+              "Title": "LabelController.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\FundooNotesApk\\Controllers\\LabelController.cs",
+              "RelativeDocumentMoniker": "FundooNotesApk\\Controllers\\LabelController.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\FundooNotesApk\\Controllers\\LabelController.cs",
+              "RelativeToolTip": "FundooNotesApk\\Controllers\\LabelController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAEsAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T06:51:38.574Z"
+              "WhenOpened": "2024-04-08T11:55:37.092Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "INotesLogic.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\LogicLayer\\Interface\\INotesLogic.cs",
-              "RelativeDocumentMoniker": "LogicLayer\\Interface\\INotesLogic.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\LogicLayer\\Interface\\INotesLogic.cs",
-              "RelativeToolTip": "LogicLayer\\Interface\\INotesLogic.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAmwBMAAABGAAAA",
+              "DocumentIndex": 2,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\FundooNotesApk\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "FundooNotesApk\\Controllers\\NotesController.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\FundooNotesApk\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "FundooNotesApk\\Controllers\\NotesController.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAAADsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T04:50:22.36Z"
+              "WhenOpened": "2024-04-08T11:55:44.521Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\FundooNotesApk\\Program.cs",
+              "RelativeDocumentMoniker": "FundooNotesApk\\Program.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\FundooNotesApk\\Program.cs",
+              "RelativeToolTip": "FundooNotesApk\\Program.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAAI0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T07:10:57.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "NotesLogic.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\LogicLayer\\Services\\NotesLogic.cs",
               "RelativeDocumentMoniker": "LogicLayer\\Services\\NotesLogic.cs",
               "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\LogicLayer\\Services\\NotesLogic.cs",
               "RelativeToolTip": "LogicLayer\\Services\\NotesLogic.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAkwEUAAAAzAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAhwBYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T04:49:46.649Z"
+              "WhenOpened": "2024-04-13T04:49:46.649Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "NoteRepo.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Services\\NoteRepo.cs",
               "RelativeDocumentMoniker": "ReposetoryLayer\\Services\\NoteRepo.cs",
               "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Services\\NoteRepo.cs",
               "RelativeToolTip": "ReposetoryLayer\\Services\\NoteRepo.cs",
-              "ViewState": "AQIAAJUAAAAAAAAAAAAAAJUAAAANAAAA",
+              "ViewState": "AQIAACwAAAAAAAAAAAAhwD0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T05:56:27.283Z"
+              "WhenOpened": "2024-04-12T05:56:27.283Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ResetPasswordModel.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\CommonLayer\\Models\\ResetPasswordModel.cs",
-              "RelativeDocumentMoniker": "CommonLayer\\Models\\ResetPasswordModel.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\CommonLayer\\Models\\ResetPasswordModel.cs",
-              "RelativeToolTip": "CommonLayer\\Models\\ResetPasswordModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\CommonLayer\\Models\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "CommonLayer\\Models\\ResponseModel.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\CommonLayer\\Models\\ResponseModel.cs",
+              "RelativeToolTip": "CommonLayer\\Models\\ResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T05:12:58.636Z"
+              "WhenOpened": "2024-04-12T04:53:21.022Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "UserLoginModel.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\CommonLayer\\Models\\UserLoginModel.cs",
-              "RelativeDocumentMoniker": "CommonLayer\\Models\\UserLoginModel.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\CommonLayer\\Models\\UserLoginModel.cs",
-              "RelativeToolTip": "CommonLayer\\Models\\UserLoginModel.cs",
-              "ViewState": "AQIAAAUAAABozMzMzMwswAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "NotesEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Entity\\NotesEntity.cs",
+              "RelativeDocumentMoniker": "ReposetoryLayer\\Entity\\NotesEntity.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Entity\\NotesEntity.cs",
+              "RelativeToolTip": "ReposetoryLayer\\Entity\\NotesEntity.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T05:12:55.201Z"
+              "WhenOpened": "2024-04-11T11:36:59.947Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "UserUpdateModel.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\CommonLayer\\Models\\UserUpdateModel.cs",
-              "RelativeDocumentMoniker": "CommonLayer\\Models\\UserUpdateModel.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\CommonLayer\\Models\\UserUpdateModel.cs",
-              "RelativeToolTip": "CommonLayer\\Models\\UserUpdateModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T05:12:47.855Z"
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\FundooNotesApk\\appsettings.json",
+              "RelativeDocumentMoniker": "FundooNotesApk\\appsettings.json",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\FundooNotesApk\\appsettings.json",
+              "RelativeToolTip": "FundooNotesApk\\appsettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-08T13:28:54.837Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "UserRegistrationModel.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\CommonLayer\\Models\\UserRegistrationModel.cs",
-              "RelativeDocumentMoniker": "CommonLayer\\Models\\UserRegistrationModel.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\CommonLayer\\Models\\UserRegistrationModel.cs",
-              "RelativeToolTip": "CommonLayer\\Models\\UserRegistrationModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T05:11:27.605Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "TokenModel.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\CommonLayer\\Models\\TokenModel.cs",
               "RelativeDocumentMoniker": "CommonLayer\\Models\\TokenModel.cs",
@@ -290,20 +311,79 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\FundooNotesApk\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "FundooNotesApk\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\FundooNotesApk\\Controllers\\UserController.cs",
-              "RelativeToolTip": "FundooNotesApk\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAEBAAAAAAAAAAAkwAYBAAAAAAAA",
+              "DocumentIndex": 35,
+              "Title": "UserRegistrationModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\CommonLayer\\Models\\UserRegistrationModel.cs",
+              "RelativeDocumentMoniker": "CommonLayer\\Models\\UserRegistrationModel.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\CommonLayer\\Models\\UserRegistrationModel.cs",
+              "RelativeToolTip": "CommonLayer\\Models\\UserRegistrationModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T04:59:14.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-12T05:11:27.605Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 34,
+              "Title": "UserUpdateModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\CommonLayer\\Models\\UserUpdateModel.cs",
+              "RelativeDocumentMoniker": "CommonLayer\\Models\\UserUpdateModel.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\CommonLayer\\Models\\UserUpdateModel.cs",
+              "RelativeToolTip": "CommonLayer\\Models\\UserUpdateModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T05:12:47.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserLoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\CommonLayer\\Models\\UserLoginModel.cs",
+              "RelativeDocumentMoniker": "CommonLayer\\Models\\UserLoginModel.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\CommonLayer\\Models\\UserLoginModel.cs",
+              "RelativeToolTip": "CommonLayer\\Models\\UserLoginModel.cs",
+              "ViewState": "AQIAAAUAAABozMzMzMwswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T05:12:55.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ResetPasswordModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\CommonLayer\\Models\\ResetPasswordModel.cs",
+              "RelativeDocumentMoniker": "CommonLayer\\Models\\ResetPasswordModel.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\CommonLayer\\Models\\ResetPasswordModel.cs",
+              "RelativeToolTip": "CommonLayer\\Models\\ResetPasswordModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T05:12:58.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "INotesLogic.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\LogicLayer\\Interface\\INotesLogic.cs",
+              "RelativeDocumentMoniker": "LogicLayer\\Interface\\INotesLogic.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\LogicLayer\\Interface\\INotesLogic.cs",
+              "RelativeToolTip": "LogicLayer\\Interface\\INotesLogic.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAmwBMAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T04:50:22.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240401135426_user.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Migrations\\20240401135426_user.cs",
+              "RelativeDocumentMoniker": "ReposetoryLayer\\Migrations\\20240401135426_user.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Migrations\\20240401135426_user.cs",
+              "RelativeToolTip": "ReposetoryLayer\\Migrations\\20240401135426_user.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAB4AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:51:38.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "IUserLogic.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\LogicLayer\\Interface\\IUserLogic.cs",
               "RelativeDocumentMoniker": "LogicLayer\\Interface\\IUserLogic.cs",
@@ -315,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "UserLogic.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\LogicLayer\\Services\\UserLogic.cs",
               "RelativeDocumentMoniker": "LogicLayer\\Services\\UserLogic.cs",
@@ -327,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "IUserRepo.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Interface\\IUserRepo.cs",
               "RelativeDocumentMoniker": "ReposetoryLayer\\Interface\\IUserRepo.cs",
@@ -339,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "INotesRepo.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Interface\\INotesRepo.cs",
               "RelativeDocumentMoniker": "ReposetoryLayer\\Interface\\INotesRepo.cs",
@@ -351,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "GetDetails.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\CommonLayer\\Models\\GetDetails.cs",
               "RelativeDocumentMoniker": "CommonLayer\\Models\\GetDetails.cs",
@@ -363,19 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ResponseModel.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\CommonLayer\\Models\\ResponseModel.cs",
-              "RelativeDocumentMoniker": "CommonLayer\\Models\\ResponseModel.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\CommonLayer\\Models\\ResponseModel.cs",
-              "RelativeToolTip": "CommonLayer\\Models\\ResponseModel.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T04:53:21.022Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "2024-04-10.log",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\FundooNotesApk\\Logs\\2024-04-10.log",
               "RelativeDocumentMoniker": "FundooNotesApk\\Logs\\2024-04-10.log",
@@ -387,19 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "NotesEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Entity\\NotesEntity.cs",
-              "RelativeDocumentMoniker": "ReposetoryLayer\\Entity\\NotesEntity.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Entity\\NotesEntity.cs",
-              "RelativeToolTip": "ReposetoryLayer\\Entity\\NotesEntity.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T11:36:59.947Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "NotesModel.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\CommonLayer\\Models\\NotesModel.cs",
               "RelativeDocumentMoniker": "CommonLayer\\Models\\NotesModel.cs",
@@ -411,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "20240410115236_Collaborator.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Migrations\\20240410115236_Collaborator.cs",
               "RelativeDocumentMoniker": "ReposetoryLayer\\Migrations\\20240410115236_Collaborator.cs",
@@ -435,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "NLog.Config",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\FundooNotesApk\\NLog.Config",
               "RelativeDocumentMoniker": "FundooNotesApk\\NLog.Config",
@@ -471,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "ColabController.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\FundooNotesApk\\Controllers\\ColabController.cs",
               "RelativeDocumentMoniker": "FundooNotesApk\\Controllers\\ColabController.cs",
@@ -479,25 +535,23 @@
               "RelativeToolTip": "FundooNotesApk\\Controllers\\ColabController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAHIAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T07:38:11.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T07:38:11.071Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
               "Title": "IColabLogic.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\LogicLayer\\Interface\\IColabLogic.cs",
               "RelativeDocumentMoniker": "LogicLayer\\Interface\\IColabLogic.cs",
               "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\LogicLayer\\Interface\\IColabLogic.cs",
               "RelativeToolTip": "LogicLayer\\Interface\\IColabLogic.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T07:34:59.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T07:34:59.105Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "ColabLogic.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\LogicLayer\\Services\\ColabLogic.cs",
               "RelativeDocumentMoniker": "LogicLayer\\Services\\ColabLogic.cs",
@@ -509,7 +563,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
               "Title": "IColabRepo.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Interface\\IColabRepo.cs",
               "RelativeDocumentMoniker": "ReposetoryLayer\\Interface\\IColabRepo.cs",
@@ -521,7 +575,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "ColabRepo.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Services\\ColabRepo.cs",
               "RelativeDocumentMoniker": "ReposetoryLayer\\Services\\ColabRepo.cs",
@@ -529,96 +583,60 @@
               "RelativeToolTip": "ReposetoryLayer\\Services\\ColabRepo.cs",
               "ViewState": "AQIAAE8AAAAAAAAAAAAkwF8AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T13:38:45.74Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LabelController.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\FundooNotesApk\\Controllers\\LabelController.cs",
-              "RelativeDocumentMoniker": "FundooNotesApk\\Controllers\\LabelController.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\FundooNotesApk\\Controllers\\LabelController.cs",
-              "RelativeToolTip": "FundooNotesApk\\Controllers\\LabelController.cs",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAAAEsAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T11:55:37.092Z",
+              "WhenOpened": "2024-04-08T13:38:45.74Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\FundooNotesApk\\Program.cs",
-              "RelativeDocumentMoniker": "FundooNotesApk\\Program.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\FundooNotesApk\\Program.cs",
-              "RelativeToolTip": "FundooNotesApk\\Program.cs",
-              "ViewState": "AQIAAGcAAAAAAAAAAAAAAGwAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T07:10:57.673Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "UserRepo.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Services\\UserRepo.cs",
               "RelativeDocumentMoniker": "ReposetoryLayer\\Services\\UserRepo.cs",
               "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Services\\UserRepo.cs",
               "RelativeToolTip": "ReposetoryLayer\\Services\\UserRepo.cs",
-              "ViewState": "AQIAADYBAAAAAAAAAAAAAKoAAAAEAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAKoAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-08T13:39:13.232Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 12,
               "Title": "CollaboratorEntity.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Entity\\CollaboratorEntity.cs",
               "RelativeDocumentMoniker": "ReposetoryLayer\\Entity\\CollaboratorEntity.cs",
               "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Entity\\CollaboratorEntity.cs",
               "RelativeToolTip": "ReposetoryLayer\\Entity\\CollaboratorEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAxwBQAAAAAAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-08T13:33:06.543Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\FundooNotesApk\\appsettings.json",
-              "RelativeDocumentMoniker": "FundooNotesApk\\appsettings.json",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\FundooNotesApk\\appsettings.json",
-              "RelativeToolTip": "FundooNotesApk\\appsettings.json",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAABcAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-08T13:28:54.837Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 10,
               "Title": "FundooContext.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Context\\FundooContext.cs",
               "RelativeDocumentMoniker": "ReposetoryLayer\\Context\\FundooContext.cs",
               "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Context\\FundooContext.cs",
               "RelativeToolTip": "ReposetoryLayer\\Context\\FundooContext.cs",
-              "ViewState": "AQIAAAoAAADYzMzMzCwwwBMAAAA1AAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-08T13:28:29.872Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 11,
               "Title": "UserEntity.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Entity\\UserEntity.cs",
               "RelativeDocumentMoniker": "ReposetoryLayer\\Entity\\UserEntity.cs",
               "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Entity\\UserEntity.cs",
               "RelativeToolTip": "ReposetoryLayer\\Entity\\UserEntity.cs",
-              "ViewState": "AQIAABkAAACAZmZmZuYvwBwAAAAPAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-08T13:27:15.564Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "LabelRepo.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Services\\LabelRepo.cs",
               "RelativeDocumentMoniker": "ReposetoryLayer\\Services\\LabelRepo.cs",
@@ -630,7 +648,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "LabelEntity.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Entity\\LabelEntity.cs",
               "RelativeDocumentMoniker": "ReposetoryLayer\\Entity\\LabelEntity.cs",
@@ -642,20 +660,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NotesController.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\FundooNotesApk\\Controllers\\NotesController.cs",
-              "RelativeDocumentMoniker": "FundooNotesApk\\Controllers\\NotesController.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\FundooNotesApk\\Controllers\\NotesController.cs",
-              "RelativeToolTip": "FundooNotesApk\\Controllers\\NotesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcBAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T11:55:44.521Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "ILabelLogic.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\LogicLayer\\Interface\\ILabelLogic.cs",
               "RelativeDocumentMoniker": "LogicLayer\\Interface\\ILabelLogic.cs",
@@ -667,7 +672,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "LabelLogic.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\LogicLayer\\Services\\LabelLogic.cs",
               "RelativeDocumentMoniker": "LogicLayer\\Services\\LabelLogic.cs",
@@ -679,7 +684,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "ILabelRepo.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\FundooNotesApk\\ReposetoryLayer\\Interface\\ILabelRepo.cs",
               "RelativeDocumentMoniker": "ReposetoryLayer\\Interface\\ILabelRepo.cs",

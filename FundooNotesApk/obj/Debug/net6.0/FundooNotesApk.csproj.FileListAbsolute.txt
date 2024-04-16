@@ -20,7 +20,13 @@ C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\bin\Deb
 C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\bin\Debug\net6.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
 C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\bin\Debug\net6.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
 C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\bin\Debug\net6.0\Microsoft.Identity.Client.dll
 C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
@@ -35,7 +41,9 @@ C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\bin\Deb
 C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\bin\Debug\net6.0\NLog.dll
 C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\bin\Debug\net6.0\NLog.Extensions.Logging.dll
 C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
+C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
 C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\bin\Debug\net6.0\StackExchange.Redis.dll
 C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -71,6 +79,7 @@ C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\obj\Deb
 C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\obj\Debug\net6.0\FundooNotesApk.csproj.CoreCompileInputs.cache
 C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\obj\Debug\net6.0\FundooNotesApk.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\obj\Debug\net6.0\FundooNotesApk.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\obj\Debug\net6.0\FundooNotesApk.sourcelink.json
 C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\obj\Debug\net6.0\staticwebassets\msbuild.FundooNotesApk.Microsoft.AspNetCore.StaticWebAssets.props
@@ -85,12 +94,3 @@ C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\obj\Deb
 C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\obj\Debug\net6.0\FundooNotesApk.pdb
 C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\obj\Debug\net6.0\FundooNotesApk.genruntimeconfig.cache
 C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\obj\Debug\net6.0\ref\FundooNotesApk.dll
-C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\bin\Debug\net6.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
-C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
-C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\bin\Debug\net6.0\StackExchange.Redis.dll
-C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
-C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
-C:\Users\Rajesh Venteru\OneDrive\Documents\FundooNotesApk\FundooNotesApk\obj\Debug\net6.0\FundooNotesApk.sourcelink.json
